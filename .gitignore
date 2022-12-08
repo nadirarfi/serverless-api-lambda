@@ -33,7 +33,7 @@ override.tf.json
 .terraformrc
 terraform.rc
 
-/iam_role
+*.json
 /test
 
 *.pem
