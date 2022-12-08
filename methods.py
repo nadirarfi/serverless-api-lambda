@@ -3,6 +3,7 @@ import json
 from botocore.exceptions import ClientError
 
 
+
 def returnResponse(statusCode:int, body=None):
     response = {
         'statusCode': statusCode,
